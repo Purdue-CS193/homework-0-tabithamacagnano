@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- It is taught by other students at Purdue
+- I am learning something new that I haven't done before
+- It includes problem solving/computer science
 
 1. Numbered
 2. List
