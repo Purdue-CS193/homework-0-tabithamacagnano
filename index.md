@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Tabitha Macagnano's First CS1930 Homework
-## Header 2
-### Header 3
 
 - It is taught by other students at Purdue
 - I am learning something new that I haven't done before
@@ -36,3 +34,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Tabitha Macagnano's First CS1930 Homework
+
+- It is taught by other students at Purdue
+- I am learning something new that I haven't done before
+- It includes problem solving/computer science
